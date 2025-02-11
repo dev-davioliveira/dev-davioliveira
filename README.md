@@ -6,8 +6,6 @@ Sou Designer e, atualmente, estou em um processo de mudança de carreira para a 
 
 ---
 
-### Linguagens e Tecnologias 🖥
-
 <img
     align="left" 
     alt="Java" 
@@ -44,16 +42,15 @@ Sou Designer e, atualmente, estou em um processo de mudança de carreira para a 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
 
-<br/>
-<br/>
+<br>
+<br>
 
-### Estatísticas 📈
-
-<p>
-  <img 
+<img 
     align="left" 
     alt="GitHub Stats" 
     height="180" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=dev-davioliveira&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=dev-davioliveira&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br" 
   />
+
+
