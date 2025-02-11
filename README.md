@@ -1,4 +1,4 @@
-# Davi Oliveira 🧑🏾‍💻
+# Davi Oliveira 👨🏽‍💻
 
 **`Desenvolvedor Backend`**
 
@@ -41,13 +41,13 @@ Sou Designer e, atualmente, estou em um processo de mudança de carreira para a 
     title="CSS"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
 
 <br/>
 <br/>
 
-### Estatísticas
+### Estatísticas 📈
 
 <p>
   <img 
