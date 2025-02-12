@@ -53,6 +53,8 @@ Sou Designer e, atualmente, estou em um processo de mudança de carreira para a 
 
 <br>
 <br>
+<br>
+
 
 <img 
     align="left" 
