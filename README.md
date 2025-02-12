@@ -26,6 +26,15 @@ Sou Designer e, atualmente, estou em um processo de mudança de carreira para a 
 
 <img 
     align="left" 
+    alt="MySql" 
+    title="MySql"
+    width="30px" 
+    style="padding-right:10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
+/>
+          
+<img 
+    align="left" 
     alt="HTML"
     title="HTML" 
     width="30px" 
