@@ -33,23 +33,7 @@ Sou Designer e, atualmente, estou em um processo de mudança de carreira para a 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
 />
           
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="35px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
 
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="35px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
 
 <br>
 <br>
