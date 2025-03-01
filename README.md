@@ -40,12 +40,3 @@ Sou Designer e, atualmente, estou em um processo de mudança de carreira para a 
 <br>
 
 
-<img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="180" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=dev-davioliveira&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br" 
-  />
-
-
