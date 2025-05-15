@@ -31,11 +31,11 @@ Sou Designer e, atualmente, estou em um processo de mudança de carreira para a 
 
 <img 
     align="left" 
-    alt="PostgreSql" 
-    title="PostgreSql"
+    alt="MySql" 
+    title="MySql"
     width="35px" 
     style="padding-right:10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
 />
           
 
